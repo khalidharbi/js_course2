@@ -5,4 +5,10 @@ const d = new Date(2020, 9, 17)
 console.log(d.getDate());
 
 const number = Math.ceil(-9.12);
+const num = Math.floor(-9.12);
+const N = Math.round(9.52);
+const n = Math.abs(-9);
+console.log(n);
+console.log(N);
+console.log(num);
 console.log(number);
